@@ -1,0 +1,63 @@
+#
+# Audio Deck Setting
+# Doc: https://gitpitch.com/docs/pro-features/audio
+#
+
+audio-deck: true
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : night
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override : assets/css/PITCHME.css
+
+#
+# Code Highlight Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight: atom-one-light
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/img/logo.png
+logo-position : top-left
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+# footnote : "Custom footnote displayed on every slide in the deck."
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Print Fragments Setting
+# DOC: https://gitpitch.com/docs/settings/print-fragments
+#
+print-fragments : true
+
+#
+# Twitter Card Settings
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "GitPitch Snap Layouts for Modern Developer Slide Decks"
+description : "A GitPitch Audio Slide Deck powered by Markdown and Git."
+# thumbnail : assets/img/customthumb.png

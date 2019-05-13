@@ -1,0 +1,6 @@
+# Step 1 - Describe your data.
+type Project {
+  name: String
+  tagline: String
+  contributors: [User]
+}

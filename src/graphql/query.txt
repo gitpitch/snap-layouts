@@ -1,0 +1,6 @@
+# Step 2 - Ask for what you want.
+{
+  project(name: "GraphQL") {
+    tagline
+  }
+}

@@ -1,0 +1,19 @@
+@startuml
+
+cloud "Web, Mobile, IoT" as Clients #DeepPink
+agent "GraphQL" as GQL #white
+agent "REST API 1" as R1 #SkyBlue
+agent "REST API 2" as R2 #DodgerBlue
+agent "REST API 3" as R3 #LightSkyBlue
+database " DB " as DB1 #SpringGreen
+database " DB " as DB2 #LightGreen
+database " DB " as DB3 #MediumSpringGreen
+Clients --> GQL
+GQL --> R1
+GQL --> R2
+GQL --> R3
+R1 ... DB1
+R2 ... DB2
+R3 ... DB3
+
+@enduml

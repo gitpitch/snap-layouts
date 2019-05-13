@@ -1,0 +1,35 @@
+/*
+ * Slide Deck Custom CSS Styles.
+ */
+
+.h2-margin-zero h2 { margin: 0 0 0 0 ; }
+.text-055 { font-size: 0.55em !important; }
+.graphql-quote { color: gray; font-size: 0.6em; padding-bottom: 1em; }
+.graphql-box { background: rgba(0,212,255,1); }
+
+img.no-frills {
+    background: none !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.code-shadow {
+    box-shadow:0 10px 16px 10px rgba(0,0,0,0.2),
+    0 6px 20px 10px rgba(0,0,0,0.19) !important;
+}
+.code-hide-opacity { opacity: 0; }
+
+@font-face {
+  font-family: 'Montserrat Heavy';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
+       url('/assets/fonts/montserrat-heavy.woff') format('woff');
+}
+.montserrat-heavy, .montserrat-heavy h3, .montserrat-heavy h2 {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Montserrat Heavy", sans-serif !important;
+}
+
+#title-footer.footer-visible { display: none; }
