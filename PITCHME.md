@@ -1,5 +1,5 @@
 ---?image=assets/img/presenter.jpg&opacity=50
-@title[Introduction](assets/audio/greeting.mp3)
+@audio[Introduction](assets/audio/greeting.mp3)
 
 @snap[west span-100 montserrat-heavy h2-margin-zero]
 ## git@css[text-gold](pitch).com
@@ -11,7 +11,7 @@
 @snapend
 
 ---?image=assets/img/presenter.jpg&opacity=50
-@title[Snap Layouts](assets/audio/intro.mp3)
+@audio[Snap Layouts](assets/audio/intro.mp3)
 
 @snap[west span-50 montserrat-heavy text-09]
 Snap Layouts
@@ -24,7 +24,7 @@ Snap Layouts
 @snapend
 
 ---
-@title[Simple Syntax](assets/audio/unique.mp3)
+@audio[Simple Syntax](assets/audio/unique.mp3)
 
 @snap[west span-50 montserrat-heavy text-09]
 Snap Layouts
@@ -47,12 +47,12 @@ Snap Layouts
 @snapend
 
 ---?image=assets/img/grid.jpg&size=88% 92%&color=white
-@title[Compass Coordinates](assets/audio/compass.mp3)
+@audio[Compass Coordinates](assets/audio/compass.mp3)
 
 @img[span-18](assets/img/compass.png)
 
 ---?color=white
-@title[Snap Layouts In Action](assets/audio/sample-one.mp3)
+@audio[Snap Layouts In Action](assets/audio/sample-one.mp3)
 
 @snap[midpoint h3-black span-40]
 ### GraphQL
@@ -61,7 +61,7 @@ Snap Layouts
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
-@title[Snap Layouts In Action](assets/audio/sample-two.mp3)
+@audio[Snap Layouts In Action](assets/audio/sample-two.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -82,7 +82,7 @@ Snap Layouts
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
-@title[Snap Layouts In Action](assets/audio/sample-two-color.mp3)
+@audio[Snap Layouts In Action](assets/audio/sample-two-color.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -103,7 +103,7 @@ Snap Layouts
 @snapend
 
 ---?color=linear-gradient(180deg, white 50%, #E71E60 50%)
-@title[Snap Layouts In Action](assets/audio/sample-three.mp3)
+@audio[Snap Layouts In Action](assets/audio/sample-three.mp3)
 
 @snap[north span-40 h3-black text-center]
 ### GraphQL
@@ -115,7 +115,7 @@ Snap Layouts
 @snapend
 
 ---?color=linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 35%, rgba(0,212,255,1) 100%)
-@title[Snap Layouts In Action](assets/audio/sample-four.mp3)
+@audio[Snap Layouts In Action](assets/audio/sample-four.mp3)
 
 @snap[north span-40 text-center]
 ### GraphQL
@@ -137,7 +137,7 @@ Snap Layouts
 @snapend
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
-@title[Snap Layouts In Action](assets/audio/sample-five.mp3)
+@audio[Snap Layouts In Action](assets/audio/sample-five.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -154,7 +154,7 @@ Snap Layouts
 @snapend
 
 ---
-@title[Show Me The Code](assets/audio/show-me-code.mp3)
+@audio[Show Me The Code](assets/audio/show-me-code.mp3)
 
 ### `Show me the code...`
 
@@ -170,7 +170,7 @@ Snap Layouts
 @[3-7](assets/audio/basic-markdown.mp3)
 
 ---?color=white
-@title[Sample Slide](assets/audio/not-quite-right.mp3)
+@audio[Sample Slide](assets/audio/not-quite-right.mp3)
 
 ### @color[black](GraphQL)
 
@@ -191,7 +191,7 @@ Snap Layouts
 @[1-9](assets/audio/wrap-in-snap-tags.mp3)
 
 ---?color=white
-@title[Snap Layouts In Action](assets/audio/much-better.mp3)
+@audio[Snap Layouts In Action](assets/audio/much-better.mp3)
 
 @snap[midpoint h3-black span-40]
 ### GraphQL
@@ -200,7 +200,7 @@ Snap Layouts
 @snapend
 
 ---
-@title[Basic Syntax](assets/audio/basic-syntax.mp3)
+@audio[Basic Syntax](assets/audio/basic-syntax.mp3)
 
 @snap[north span-100 text-gray text-06]
 `@snap Layouts Basic Syntax`
@@ -209,7 +209,7 @@ Snap Layouts
 @code[markdown code-power zoom-24](src/md/snap-layouts-syntax.md)
 
 ---
-@title[Snap Span Controls](assets/audio/snap-span-property.mp3)
+@audio[Snap Span Controls](assets/audio/snap-span-property.mp3)
 
 @snap[north span-100 text-gray text-06]
 `Sample Slide Markdown`
@@ -218,7 +218,7 @@ Snap Layouts
 @code[markdown code-power zoom-14](src/md/snap-midpoint-sample.md)
 
 ---
-@title[Snap Position Controls](assets/audio/snap-position-property.mp3)
+@audio[Snap Position Controls](assets/audio/snap-position-property.mp3)
 
 @snap[north span-100 text-gray text-06]
 `Sample Slide Markdown`
@@ -227,7 +227,7 @@ Snap Layouts
 @code[markdown code-power zoom-14](src/md/snap-west-sample.md)
 
 ---?color=white
-@title[Snap Layouts In Action](assets/audio/nice.mp3)
+@audio[Snap Layouts In Action](assets/audio/nice.mp3)
 
 @snap[west h3-black text-center span-40]
 ### GraphQL
@@ -236,7 +236,7 @@ Snap Layouts
 @snapend
 
 ---
-@title[A Quick Detour](assets/audio/quick-detour.mp3)
+@audio[A Quick Detour](assets/audio/quick-detour.mp3)
 
 @img[no-frills span-30](assets/img/tip.png)
 
@@ -268,7 +268,7 @@ Snap Layouts
 
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
-@title[Snap Layouts In Action](assets/audio/custom-background-gradient.mp3)
+@audio[Snap Layouts In Action](assets/audio/custom-background-gradient.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -277,7 +277,7 @@ Snap Layouts
 @snapend
 
 ---
-@title[Complete Design](assets/audio/time-to-complete.mp3)
+@audio[Complete Design](assets/audio/time-to-complete.mp3)
 
 ### `Back to @snap...`
 
@@ -293,7 +293,7 @@ Snap Layouts
 @[1-4](assets/audio/add-markdown-snippet.mp3)
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
-@title[Snap Layouts In Action](assets/audio/markdown-heading.mp3)
+@audio[Snap Layouts In Action](assets/audio/markdown-heading.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -317,7 +317,7 @@ Snap Layouts
 @[1-9](assets/audio/markdown-widgets-too.mp3)
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
-@title[Snap Layouts In Action](assets/audio/very-nice.mp3)
+@audio[Snap Layouts In Action](assets/audio/very-nice.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -346,7 +346,7 @@ Snap Layouts
 @[1-15](assets/audio/markdown-post-snap-tags.mp3)
 
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
-@title[Snap Layouts In Action](assets/audio/one-final-time.mp3)
+@audio[Snap Layouts In Action](assets/audio/one-final-time.mp3)
 
 @snap[west span-40 h3-black text-center]
 ### GraphQL
@@ -363,7 +363,7 @@ Snap Layouts
 @snapend
 
 ---?color=white
-@title[Best of Both Worlds](assets/audio/best-of-both-worlds.mp3)
+@audio[Best of Both Worlds](assets/audio/best-of-both-worlds.mp3)
 
 @snap[north-west span-30]
 ![DESIGN](assets/img/snap-layouts-1.jpg)
@@ -386,7 +386,7 @@ Snap Layouts
 @snapend
 
 ---?image=assets/img/presenter.jpg&opacity=20
-@title[Snap Layouts Guide](assets/audio/conclusion.mp3)
+@audio[Snap Layouts Guide](assets/audio/conclusion.mp3)
 
 @snap[west span-35]
 @fa[book-reader fa-7x]
